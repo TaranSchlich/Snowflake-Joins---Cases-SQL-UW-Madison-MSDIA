@@ -3,8 +3,6 @@
 **Date: 10/22/2025**
 
 [![SQL](https://img.shields.io/badge/SQL-Snowflake-blue)]
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]
-[![License](https://img.shields.io/badge/License-MIT-green)]
 
 ---
 
