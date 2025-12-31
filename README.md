@@ -1,5 +1,6 @@
 # Joins & CASE Statements SQL (Snowflake)
 **By: Taran Schlichtmann**
+
 **Date: 10/22/2025**
 
 [![SQL](https://img.shields.io/badge/SQL-Snowflake-blue)]
